@@ -11,6 +11,7 @@
 - Bsides Montréal 2023
 - NorthSec 2023
 - CSGames Saguenay 2023 - Gagnant de l'épreuve de programmation à relais
+- compétition québécoise d'ingénierie (CQI) - Développement d'une application de gestion de bénévole
 - Hackfest 2022
 - Bsides Montréal 2022
 - NorthSec 2022
